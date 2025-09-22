@@ -9,7 +9,9 @@
 
 ## 🚀 My Interests:
 
-🧠 AI & Machine Learning 🔍 Problem Solving and DSA 🌐 Web Apps with Python & Streamlit
+🧠 AI & Machine Learning 
+🔍 Problem Solving and DSA 
+🌐 Web Apps with Python & Streamlit
 
 ## 🧩 Notable Projects:
 
