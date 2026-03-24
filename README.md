@@ -21,6 +21,8 @@
 
 📊 Water Quality Dashboard – Visual tool for analyzing organic/inorganic waste levels (COD, BOD).
 
+Breast Cancer Detection using ML.
+
 ## 🧰 Tools & Tech I Use:
 
 Python | Java | SQL | PL/SQL | Streamlit | VS Code | Git | NumPy | Pandas | Matplotlib | Scikit-learn
